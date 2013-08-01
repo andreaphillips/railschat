@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/railschat.iml" afterPath="$PROJECT_DIR$/.idea/railschat.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/chat.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/chat.js.coffee" />
     </list>
     <ignored path="railschat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,7 +18,7 @@
     <file path="$USER_HOME$/mychoresweb/Gemfile.lock" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375379417008" ignored="false" />
     <file path="/chat_controller.rb" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375382458212" ignored="false" />
     <file path="/index.html.erb" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375381535553" ignored="false" />
-    <file path="/chat.js.coffee" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375381814782" ignored="false" />
+    <file path="/chat.js.coffee" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375391417928" ignored="false" />
     <file path="/heroku.yml" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375387180068" ignored="false" />
     <file path="/development.rb" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375388544278" ignored="false" />
     <file path="/production.rb" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375389164037" ignored="false" />
@@ -56,7 +53,7 @@
       <file leaf-file-name="chat.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/chat.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
+            <state line="5" column="40" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,7 +71,7 @@
       <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
+            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -133,12 +130,12 @@
         <option value="$PROJECT_DIR$/app/views/chat/chat.html.erb" />
         <option value="$PROJECT_DIR$/app/views/chat/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/chat_controller.rb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/chat.js.coffee" />
         <option value="$PROJECT_DIR$/config/heroku.yml" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/config/initializers/redis.rb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/chat.js.coffee" />
         <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
@@ -730,13 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/chat.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="0" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.0">
@@ -744,9 +734,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/chat.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="40" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
+        <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
