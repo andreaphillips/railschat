@@ -33,6 +33,7 @@ gem 'tubesock'
 
 group :development do
   gem 'sqlite3'
+  gem 'heroku-rake'
 end
 
 group :doc do
