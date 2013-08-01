@@ -20,7 +20,7 @@
     <file path="/chat.js.coffee" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375381814782" ignored="false" />
     <file path="/heroku.yml" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375387180068" ignored="false" />
     <file path="/development.rb" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375388544278" ignored="false" />
-    <file path="/production.rb" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375388969818" ignored="false" />
+    <file path="/production.rb" changelist="a0f3aa41-944e-4c05-8372-8f7d09ffa2ec" time="1375389164037" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="37" selection-start="1378" selection-end="1378" vertical-scroll-proportion="0.48872182">
+            <state line="25" column="3" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.15037593">
               <folding />
             </state>
           </provider>
@@ -858,7 +858,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="37" selection-start="1378" selection-end="1378" vertical-scroll-proportion="0.48872182">
+        <state line="25" column="3" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.15037593">
           <folding />
         </state>
       </provider>
